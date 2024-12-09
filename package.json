@@ -1,0 +1,12 @@
+{
+  "name": "mern-voting-main",
+  "version": "1.0.0",
+  "description": "Welcome to eVote, your modern solution for secure, efficient, and user-friendly online voting. Built with the powerful MERN stack—MongoDB, Express.js, React, and Node.js—eVote ensures a seamless and reliable voting experience for all users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
